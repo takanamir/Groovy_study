@@ -1,0 +1,3 @@
+This is new file.
+I made in order to study Groovy.
+Reading file system is so easy.
